@@ -1,4 +1,4 @@
-# 🚁 Generative Drone Frame Optimization
+# Generative Drone Frame Optimization
 
 > End-to-end generative design optimization of a lightweight quadcopter frame using Autodesk Fusion 360, including CAD modeling, topology optimization, finite element analysis (FEA), engineering drawings, and manufacturing evaluation.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project demonstrates the complete engineering workflow involved in designing a lightweight quadcopter frame using **Autodesk Fusion 360 Generative Design**.
 
@@ -27,7 +27,7 @@ This repository serves as both an engineering portfolio project and a practical 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Design a lightweight quadcopter frame
 - Apply topology optimization through Generative Design
@@ -37,7 +37,7 @@ This repository serves as both an engineering portfolio project and a practical 
 
 ---
 
-# 🛠 Software Used
+# Software Used
 
 | Software | Purpose |
 |-----------|----------|
@@ -49,7 +49,7 @@ This repository serves as both an engineering portfolio project and a practical 
 
 ---
 
-# 📐 Design Specifications
+# Design Specifications
 
 | Parameter | Value |
 |------------|--------|
@@ -62,7 +62,7 @@ This repository serves as both an engineering portfolio project and a practical 
 
 ---
 
-# ⚙ Engineering Workflow
+# Engineering Workflow
 
 ```text
 Problem Definition
@@ -100,7 +100,7 @@ Manufacturing Review
 
 ---
 
-# 📊 Results
+# Results
 
 | Metric | Value |
 |---------|--------|
@@ -115,7 +115,7 @@ Manufacturing Review
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```
 Generative-Drone-Frame-Optimization
@@ -141,7 +141,7 @@ Generative-Drone-Frame-Optimization
 
 ---
 
-# 📸 Project Gallery
+# Project Gallery
 
 ## CAD Model
 
@@ -187,7 +187,7 @@ The report documents:
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - Dynamic Structural Analysis
 - Modal Analysis
@@ -200,7 +200,7 @@ The report documents:
 
 ---
 
-# 📚 References
+# References
 
 - Autodesk Fusion 360 Documentation
 - Topology Optimization by Bendsøe & Sigmund
@@ -210,7 +210,7 @@ The report documents:
 
 ---
 
-# 👤 Author
+# Author
 
 **Aryan Pandharipande**
 
