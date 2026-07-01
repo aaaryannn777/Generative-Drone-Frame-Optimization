@@ -132,7 +132,7 @@ Generative-Drone-Frame-Optimization
 
 ---
 
-## FEA Stress Plot
+## FEA Stress Plot(in Fusion 360 itself)
 
 <img width="1280" height="800" alt="Screenshot 2026-07-01 142754" src="https://github.com/user-attachments/assets/e00e00e5-0f99-4063-8830-1feac649e7c6" />
 
@@ -145,12 +145,12 @@ Generative-Drone-Frame-Optimization
 
 ---
 
-# 📄 Report
+#  Report
 
 The complete engineering report is available in:
 
 ```
-report/
+https://github.com/aryan-pandharipande/Generative-Drone-Frame-Optimization/blob/main/report/README.md
 ```
 
 The report documents:
