@@ -143,27 +143,23 @@ Generative-Drone-Frame-Optimization
 
 # Project Gallery
 
-## CAD Model
-
-*Insert Render Here*
-
----
-
 ## Generative Design Outcome
 
-*Insert Screenshot Here*
+<img width="1280" height="764" alt="Screenshot 2026-07-01 143945" src="https://github.com/user-attachments/assets/4cdd09ec-c02c-46ee-9c0d-837eeadd9679" />
+
 
 ---
 
 ## FEA Stress Plot
 
-*Insert Stress Plot Here*
+<img width="1280" height="800" alt="Screenshot 2026-07-01 142754" src="https://github.com/user-attachments/assets/e00e00e5-0f99-4063-8830-1feac649e7c6" />
+
 
 ---
 
 ## Engineering Drawing
+<img width="1386" height="978" alt="drawing" src="https://github.com/user-attachments/assets/e3bcd393-7e26-4d7e-887f-6ef3e3264e07" />
 
-*Insert Drawing Here*
 
 ---
 
