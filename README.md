@@ -1,6 +1,6 @@
-# Generative Drone Frame Optimization
+# Generative Drone Frame Optimisation
 
-> End-to-end generative design optimization of a lightweight quadcopter frame using Autodesk Fusion 360, including CAD modeling, topology optimization, finite element analysis (FEA), engineering drawings, and manufacturing evaluation.
+> End-to-end generative design optimisation of a lightweight quadcopter frame using Autodesk Fusion 360, including CAD modeling, topology optimization, finite element analysis (FEA), engineering drawings, and manufacturing evaluation.
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![CAD](https://img.shields.io/badge/CAD-Autodesk%20Fusion%20360-orange)
@@ -13,7 +13,7 @@
 
 This project demonstrates the complete engineering workflow involved in designing a lightweight quadcopter frame using **Autodesk Fusion 360 Generative Design**.
 
-The objective was to minimize structural mass while maintaining adequate strength, stiffness, and manufacturability. The project includes:
+The objective was to minimise structural mass while maintaining adequate strength, stiffness, and manufacturability. The project includes:
 
 - CAD modelling
 - Generative Design study setup
