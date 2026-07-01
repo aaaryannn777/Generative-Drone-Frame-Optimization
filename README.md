@@ -65,37 +65,7 @@ This repository serves as both an engineering portfolio project and a practical 
 # Engineering Workflow
 
 ```text
-Problem Definition
-        │
-        ▼
-CAD Model Creation
-        │
-        ▼
-Preserve Geometry
-        │
-        ▼
-Obstacle Geometry
-        │
-        ▼
-Load Cases & Constraints
-        │
-        ▼
-Generative Design Study
-        │
-        ▼
-Candidate Evaluation
-        │
-        ▼
-Final Outcome Selection
-        │
-        ▼
-Finite Element Analysis
-        │
-        ▼
-Engineering Drawing
-        │
-        ▼
-Manufacturing Review
+Problem Definition -> CAD Model Creation -> Preserve Geometry -> Obstacle Geometry -> Load Cases & Constraints-> Generative Design Study -> Candidate Evaluation -> Final Outcome Selection -> Finite Element Analysis -> Engineering Drawing -> Manufacturing Review
 ```
 
 ---
