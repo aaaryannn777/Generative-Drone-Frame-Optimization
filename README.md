@@ -73,14 +73,27 @@ Problem Definition -> CAD Model Creation -> Preserve Geometry -> Obstacle Geomet
 # Results
 
 | Metric | Value |
-|---------|--------|
-| Selected Outcome | Outcome 3 |
-| Final Mass | **0.823 kg** |
-| Maximum Stress | **3.108 MPa** |
-| Minimum Safety Factor | **77.2** |
-| Maximum Displacement | **0.027 mm** |
-| Weight Reduction | **90.4%*** |
+|--------|--------|
+## Results
 
+| Metric | Value |
+|---------|---------|
+| Selected Outcome | Outcome 3 |
+| Material | AlSi10Mg |
+| Boundary Condition | Fixed Support at Motor Mounts |
+| Final Mass | 80.823 g |
+| Maximum von Mises Stress | 0.550 MPa |
+| Average von Mises Stress | 0.076 MPa |
+| Maximum Equivalent Elastic Strain | 2.9999 × 10⁻⁶ |
+| Maximum Total Deformation | 5.262 × 10⁻⁴ mm |
+| Structural Stiffness | 1.90 × 10⁷ N/m |
+| Calculated Factor of Safety | 417.9 |
+| Weight Reduction | 90.4 % |
+
+It implies to the frame being:
+-Extremely stiff
+-Extremely safe
+-Very lightweight
 \*Compared with the heaviest candidate explored within the design space.
 
 ---
