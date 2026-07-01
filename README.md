@@ -41,10 +41,9 @@ This repository serves as both an engineering portfolio project and a practical 
 
 | Software | Purpose |
 |-----------|----------|
-| Autodesk Fusion 360 | CAD Modeling |
+| OnShape & Autodesk Fusion 360 | CAD Modeling |
 | Fusion 360 Generative Design | Topology Optimization |
-| Fusion 360 Simulation | Structural Analysis |
-| Onshape | Parametric Reconstruction |
+| Fusion 360 Simulation & ANSYS | Structural Analysis |
 | LaTeX | Technical Report |
 
 ---
